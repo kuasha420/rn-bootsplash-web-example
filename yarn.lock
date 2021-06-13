@@ -7140,7 +7140,7 @@ react-is@^16.13.0, react-is@^16.7.0, react-is@^16.8.1:
 
 "react-native-bootsplash@git+https://github.com/kuasha420/react-native-bootsplash":
   version "3.2.3"
-  resolved "git+https://github.com/kuasha420/react-native-bootsplash#a05026bc13f96c3bfd7a102f0a3b0f99b191607e"
+  resolved "git+https://github.com/kuasha420/react-native-bootsplash#7835630aae374207710c434dfbbccb780a2e4339"
   dependencies:
     chalk "^4.1.0"
     fs-extra "^9.1.0"
