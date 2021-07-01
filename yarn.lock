@@ -7138,9 +7138,9 @@ react-is@^16.13.0, react-is@^16.7.0, react-is@^16.8.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-"react-native-bootsplash@git+https://github.com/kuasha420/react-native-bootsplash":
-  version "3.2.3"
-  resolved "git+https://github.com/kuasha420/react-native-bootsplash#7835630aae374207710c434dfbbccb780a2e4339"
+"react-native-bootsplash@git+https://github.com/kuasha420/react-native-bootsplash.git":
+  version "3.2.4"
+  resolved "git+https://github.com/kuasha420/react-native-bootsplash.git#c6d532cd261eac9841bbbd4ca19ed6db3e20318b"
   dependencies:
     chalk "^4.1.0"
     fs-extra "^9.1.0"

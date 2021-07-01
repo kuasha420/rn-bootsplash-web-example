@@ -2,6 +2,7 @@
   "name": "helloworld",
   "version": "1.0.0",
   "private": true,
+  "homepage": "/",
   "scripts": {
     "android": "react-native run-android --main-activity com.zoontek.rnbootsplash.RNBootSplashActivity",
     "ios": "react-native run-ios",
@@ -26,7 +27,7 @@
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.2",
-    "react-native-bootsplash": "git+https://github.com/kuasha420/react-native-bootsplash",
+    "react-native-bootsplash": "git+https://github.com/kuasha420/react-native-bootsplash.git",
     "react-native-gesture-handler": "^1.10.3",
     "react-native-immersive-bars": "^1.0.2",
     "react-native-keyboard-aware-scroll-view": "^0.9.4",
